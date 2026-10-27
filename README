@@ -1,0 +1,44 @@
+# House Price Prediction using Machine Learning
+
+## Project Overview
+This project predicts house prices using Linear Regression, a Machine Learning algorithm.
+
+## Dataset
+- Dataset: California housing data (`housing.csv`)
+- Original records: 20,640
+- Records after cleaning: 20,433
+- Target variable: `median_house_value`
+
+## Algorithm Used
+Linear Regression
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Joblib
+
+## Model Evaluation
+- R² Score: 0.6401
+- RMSE: 70,156.12
+
+The R² score measures how well the model explains variations in house prices on the test data.
+
+## Project Features
+- Data cleaning and analysis
+- Data visualization
+- Model training
+- House price prediction
+- Model evaluation
+
+## How to Run
+1. Download or clone this repository.
+2. Install the required Python libraries.
+3. Place `housing.csv` in the project folder.
+4. Open the notebook in Jupyter Notebook or Google Colab.
+5. Run the notebook cells in order.
+
+## Author 
+Sri Varsha
